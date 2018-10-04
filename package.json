@@ -1,0 +1,25 @@
+{
+  "name": "ftnl-stats",
+  "version": "1.0.0",
+  "description": "[Voir les résultats en ligne](https://plot.ly/~SkyBeastMC/0/#plot)",
+  "main": "display.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "mkdirp": "^0.5.1",
+    "plotly": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyBeastMC/FTNL-Stats.git"
+  },
+  "author": "SkyBeastMC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SkyBeastMC/FTNL-Stats/issues"
+  },
+  "homepage": "https://github.com/SkyBeastMC/FTNL-Stats#readme"
+}

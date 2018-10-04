@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# custom
+data_*.json
+data_*.csv
